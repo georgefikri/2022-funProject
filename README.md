@@ -5,3 +5,4 @@ i don't have a clear idea what it is going to be so far, but step 1 of pushing t
 ## Available Scripts
 
 In the project directory, you can run:
+npm start
